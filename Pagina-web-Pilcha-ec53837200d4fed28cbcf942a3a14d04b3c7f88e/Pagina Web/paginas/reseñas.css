@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-color: #F1F6F9;
+}
+
+.headpagina {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    background: #394867;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
